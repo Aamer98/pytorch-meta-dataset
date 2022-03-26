@@ -2,7 +2,7 @@ METHOD:
   method: 'FN'
   episodic_training: False
   iter: 100
-  finetune_lr: 0.01
+  finetune_lr: 0.1
   extract_batch_size: 10
   temp: 1
   finetune_all_layers: False
